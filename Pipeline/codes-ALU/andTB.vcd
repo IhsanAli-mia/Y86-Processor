@@ -1,0 +1,178 @@
+$date
+	Thu Jan 25 19:21:56 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module andTB $end
+$var wire 64 ! result [63:0] $end
+$var reg 64 " a [63:0] $end
+$var reg 64 # b [63:0] $end
+$scope module A $end
+$var wire 64 $ X [63:0] $end
+$var wire 64 % Y [63:0] $end
+$var wire 64 & Z [63:0] $end
+$scope begin AND[0] $end
+$upscope $end
+$scope begin AND[1] $end
+$upscope $end
+$scope begin AND[2] $end
+$upscope $end
+$scope begin AND[3] $end
+$upscope $end
+$scope begin AND[4] $end
+$upscope $end
+$scope begin AND[5] $end
+$upscope $end
+$scope begin AND[6] $end
+$upscope $end
+$scope begin AND[7] $end
+$upscope $end
+$scope begin AND[8] $end
+$upscope $end
+$scope begin AND[9] $end
+$upscope $end
+$scope begin AND[10] $end
+$upscope $end
+$scope begin AND[11] $end
+$upscope $end
+$scope begin AND[12] $end
+$upscope $end
+$scope begin AND[13] $end
+$upscope $end
+$scope begin AND[14] $end
+$upscope $end
+$scope begin AND[15] $end
+$upscope $end
+$scope begin AND[16] $end
+$upscope $end
+$scope begin AND[17] $end
+$upscope $end
+$scope begin AND[18] $end
+$upscope $end
+$scope begin AND[19] $end
+$upscope $end
+$scope begin AND[20] $end
+$upscope $end
+$scope begin AND[21] $end
+$upscope $end
+$scope begin AND[22] $end
+$upscope $end
+$scope begin AND[23] $end
+$upscope $end
+$scope begin AND[24] $end
+$upscope $end
+$scope begin AND[25] $end
+$upscope $end
+$scope begin AND[26] $end
+$upscope $end
+$scope begin AND[27] $end
+$upscope $end
+$scope begin AND[28] $end
+$upscope $end
+$scope begin AND[29] $end
+$upscope $end
+$scope begin AND[30] $end
+$upscope $end
+$scope begin AND[31] $end
+$upscope $end
+$scope begin AND[32] $end
+$upscope $end
+$scope begin AND[33] $end
+$upscope $end
+$scope begin AND[34] $end
+$upscope $end
+$scope begin AND[35] $end
+$upscope $end
+$scope begin AND[36] $end
+$upscope $end
+$scope begin AND[37] $end
+$upscope $end
+$scope begin AND[38] $end
+$upscope $end
+$scope begin AND[39] $end
+$upscope $end
+$scope begin AND[40] $end
+$upscope $end
+$scope begin AND[41] $end
+$upscope $end
+$scope begin AND[42] $end
+$upscope $end
+$scope begin AND[43] $end
+$upscope $end
+$scope begin AND[44] $end
+$upscope $end
+$scope begin AND[45] $end
+$upscope $end
+$scope begin AND[46] $end
+$upscope $end
+$scope begin AND[47] $end
+$upscope $end
+$scope begin AND[48] $end
+$upscope $end
+$scope begin AND[49] $end
+$upscope $end
+$scope begin AND[50] $end
+$upscope $end
+$scope begin AND[51] $end
+$upscope $end
+$scope begin AND[52] $end
+$upscope $end
+$scope begin AND[53] $end
+$upscope $end
+$scope begin AND[54] $end
+$upscope $end
+$scope begin AND[55] $end
+$upscope $end
+$scope begin AND[56] $end
+$upscope $end
+$scope begin AND[57] $end
+$upscope $end
+$scope begin AND[58] $end
+$upscope $end
+$scope begin AND[59] $end
+$upscope $end
+$scope begin AND[60] $end
+$upscope $end
+$scope begin AND[61] $end
+$upscope $end
+$scope begin AND[62] $end
+$upscope $end
+$scope begin AND[63] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 &
+b100000 %
+b1111 $
+b100000 #
+b1111 "
+b0 !
+$end
+#5
+b1 !
+b1 &
+b101010101010101010101010101010101010101010101010101010101010101 #
+b101010101010101010101010101010101010101010101010101010101010101 %
+b1010101010101010101010101010101010101010101010101010101010101011 "
+b1010101010101010101010101010101010101010101010101010101010101011 $
+#10
+b1111 !
+b1111 &
+b11111 #
+b11111 %
+b1111 "
+b1111 $
+#15
+b11111 !
+b11111 &
+b111111 #
+b111111 %
+b11111 "
+b11111 $
