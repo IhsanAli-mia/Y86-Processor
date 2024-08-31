@@ -9,4 +9,4 @@ The required specifications in the processor design are as follows:
 
 ### Important points to notice:
 - Both the above implementations must execute all the instructions from Y86 ISA except **call** and **ret** instructions to get the above-mentioned marks. If you also execute **call** and **ret** instructions, additional marks will be awarded.
-- Students are required to create 2 to 4 test cases (machine encodings of a sample program), ensuring comprehensive coverage of all instructions.
+- The file includes test cases written in assembly to test all the program functionality
